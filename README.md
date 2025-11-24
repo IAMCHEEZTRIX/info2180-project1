@@ -1,2 +1,3 @@
-# info2180-project1
-info2180 project 1
+# INFO2180 Project 1
+
+This is Project 1 for Damion Henry
